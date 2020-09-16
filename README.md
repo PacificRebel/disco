@@ -1,7 +1,6 @@
 An amazing colour-changing app, written with React and published on  
 Heroku! :)
 https://blooming-waters-22212.herokuapp.com/  
-
 --------------------------------------------------------------------------------
 
 To publish React apps on Heroku:
